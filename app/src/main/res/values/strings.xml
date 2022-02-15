@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">test</string>
+
+    <!-- Bottom Navigation Bar -->
+    <string name="VoiceChat">Voice Chat</string>
+    <string name="GroupChat">Group Chat</string>
+    <string name="Me">Me</string>
+
+
+    <!-- Sign In -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin_email">Signup or Signin by email</string>
+    <string name="signin_google">Google login</string>
+    <string name="signin_facebook">Facebook login</string>
+    <string name="signin_apple">Apple login</string>
+    <string name="signup_complete">Membership success</string>
+    <string name="signin_complete">Login success</string>
+    <string name="signout">Signout</string>
+    <string name="signout_success">Signout success</string>
+    <string name="signout_fail">Signout fail</string>
+    <string name="signout_fail_null">Please enter your email and password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

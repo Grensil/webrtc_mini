@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_voice"
+        android:icon="@drawable/voice_chat"
+        android:enabled="true"
+        android:title="@string/VoiceChat"/>
+    <item
+        android:id="@+id/action_group"
+        android:icon="@drawable/people"
+        android:enabled="true"
+        android:title="@string/GroupChat"/>
+
+
+</menu>
